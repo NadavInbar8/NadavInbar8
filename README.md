@@ -52,18 +52,9 @@ I love building fast, scalable UIs with **React**, pushing performance boundarie
 
 ---
 
-## 🔥 Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=NadavInbar8&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## 📬 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/nadavinbar)
-- ✉️ Email: nadav.inbar@email.com
 
 ---
 
